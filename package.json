@@ -2,7 +2,7 @@
   "name": "ichrak-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ichrak-harbaoui.github.io",
+  "homepage": "https://ichrak-harbaoui.github.io/portfolio",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
@@ -24,7 +24,7 @@
     "react-reveal": "^1.2.2",
     "react-router-dom": "^5.2.0",
     "react-router-hash-link": "^2.4.3",
-    "react-scripts": "^4.0.3",
+    "react-scripts": "^5.0.0",
     "react-slick": "^0.28.1",
     "slick-carousel": "^1.8.1",
     "validator": "^13.6.0",

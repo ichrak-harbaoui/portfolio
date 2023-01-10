@@ -35,6 +35,7 @@ export const projectsData = [
     code: "",
     demo: "https://asapforyou.fr/",
     image: asap,
+    isPrivate: true,
   },
   {
     id: 4,
@@ -55,6 +56,7 @@ export const projectsData = [
     code: "",
     demo: "",
     image: jobber,
+    isPrivate: true,
   },
   {
     id: 6,
