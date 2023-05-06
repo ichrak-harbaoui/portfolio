@@ -62,7 +62,7 @@ export const projectsData = [
     id: 6,
     projectName: "K-RIDI",
     projectDesc: "A platform for human resources (HR) management",
-    tags: ["Angular", "Spring Boot", "MySql", "Keycloak"],
+    tags: ["React", "Spring Boot", "MySql", "Keycloak"],
     code: "",
     demo: "",
     image: ridi,
