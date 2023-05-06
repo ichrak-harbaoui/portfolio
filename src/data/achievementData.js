@@ -5,7 +5,7 @@ export const achievementData = {
       id: 1,
       title: "Full Stack developer at KESA RIDI",
       details:
-        "Developed a platform for human resources (HR) management using angular and spring",
+        "Developed a platform for human resources (HR) management using react and spring",
       date: "Jun, 2022 - Dec 2022",
       field: "Internship",
     },
@@ -20,7 +20,7 @@ export const achievementData = {
     {
       id: 3,
       title: "Full Stack developer at ANT Technology",
-      details: "Developed an online exam platform using angular and spring.",
+      details: "Developed an online exam platform using react and spring.",
       date: "Aug 2021 - Oct 2021",
       field: "Internship",
     },

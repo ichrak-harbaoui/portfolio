@@ -1,4 +1,4 @@
-import resume from "../assets/pdf/ichrakharbaoui.pdf";
+import resume from "../assets/pdf/ichrak-harbaoui-cv.pdf";
 import ichrakPhoto from "../assets/png/ichrakPhoto.JPG";
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
